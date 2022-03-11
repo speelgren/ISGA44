@@ -1,2 +1,6 @@
-# ISGA44
-Introduktion till programmering
+# Introduktion till programmering
+ISGA44 (tidigare ISGA04)
+
+Programmering i C.
+
+Robin Johansson Speelgren
