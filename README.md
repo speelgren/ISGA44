@@ -3,4 +3,4 @@ ISGA44 (tidigare ISGA04)
 
 Programmering i C.
 
-Robin Johansson Speelgren
+Laborationer.
